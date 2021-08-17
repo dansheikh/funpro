@@ -1,0 +1,11 @@
+{
+  "name": "funpro",
+  "version": "1.0.0",
+  "description": "Functional Programming in PureScript.",
+  "author": "Dan Sheikh",
+  "license": "MIT",
+  "devDependencies": {
+    "purescript": "^0.14.3",
+    "spago": "^0.20.3"
+  }
+}
